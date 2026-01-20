@@ -27,7 +27,7 @@ Ticket images
 ![Ticket](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket.jpeg)  
 ![Ticket Name](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket_Name.jpeg)  
 ![Ticket Prime](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket_Prime.jpeg)  
-![DocType](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/DocType.jpeg)
+![DocType](https://github.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/blob/main/DocType.jpeg)
 
 Contents
 - apps/event_management — legacy app location
