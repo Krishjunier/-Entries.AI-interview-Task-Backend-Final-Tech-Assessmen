@@ -23,10 +23,10 @@ Stock Update
 Ticket images
 
 ![Ticket Sales](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Tickerr_Sales.jpeg)  
-![Ticket General pass](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket_General_pass.jpeg)  
-![Ticket](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket.jpeg)  
-![Ticket Name](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket_Name.jpeg)  
-![Ticket Prime](https://raw.githubusercontent.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/main/files/Ticket_Prime.jpeg)  
+![Ticket General pass]()  
+![Ticket](https://github.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/blob/main/Ticket.jpeg)
+![Ticket Name](https://github.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/blob/main/Ticket_Name.jpeg) 
+![Ticket Prime](https://github.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/blob/main/Ticket_Prime.jpeg)
 ![DocType](https://github.com/Krishjunier/-Entries.AI-interview-Task-Backend-Final-Tech-Assessmen/blob/main/DocType.jpeg)
 
 Contents
